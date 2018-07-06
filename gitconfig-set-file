@@ -1,0 +1,9 @@
+[user]
+    name = Muralidhara
+    email = muralimk51@gmail.com
+
+[core]
+    editor = vim
+	
+[push]
+	default = matching
